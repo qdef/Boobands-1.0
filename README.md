@@ -8,7 +8,7 @@ Use 'info [band_ID]' to obtain more information on your search results. (example
 Use 'albums [band_ID]' to see gthe discography of a search result ('albums 1')
 
 Use the 'favorites' to connect to your personal account of the corresponding website, if you have one.
-==> This will display the list of your favorite bands (if you bookmarked bands on the corresponding website).
+<br>==> This will display the list of your favorite bands (if you bookmarked bands on the corresponding website).
 
 Finally, the 'suggestions' command will look for similar artists and offer you new band suggestions depending on your tastes!
 
